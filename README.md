@@ -30,13 +30,13 @@
 <h3>
 PosgreSQL
 </h3>
-![Project Screenshot](screenshot.png)
+<img src="screenshots/screenshot.png" widht='200px' height='200px'>
 <h2>
 Installation
 </h2>
 <h3>Clone the repository</h3>
-<p>git clone https://github.com/fakhirmasood/FM-Mart<br>
-cd FM-Mart (two times)<p>
+<p>git clone https://github.com/fakhirmasood-dev/FM-Mart<br>
+cd FM-Mart<p>
 
 <h3>Create a Vistual environment</h3>
 <p>python -m venv venv<br>
@@ -52,7 +52,7 @@ Activate it:
 <p>python manage.py migrate</p>
 <h3>Run the development server</h3>
 <p>python manage.py runserver<br>
-Open this url in browser http://127.0.0.1:8000/</p>
+Open this url in browser http://127.0.0.1:8000/FM-Mart/home</p>
 <h3>Environment Variables</h3>
 <p>create .env file and provide all environment variables.</p>
 <h1>Author</h1>
