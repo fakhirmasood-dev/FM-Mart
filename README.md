@@ -28,8 +28,9 @@
 </ul>
 
 <h3>
-PosgreSQL
+Database
 </h3>
+<ul><li>PosgreSQL</li></ul>
 <img src="screenshots/screenshot.png" widht='200px' height='200px'>
 <h2>
 Installation
