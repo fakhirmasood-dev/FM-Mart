@@ -39,7 +39,7 @@ Installation
 <p>git clone https://github.com/fakhirmasood-dev/FM-Mart<br>
 cd FM-Mart<p>
 
-<h3>Create a Vistual environment</h3>
+<h3>Create a Virtual environment</h3>
 <p>python -m venv venv<br>
 Activate it:
 <p>
